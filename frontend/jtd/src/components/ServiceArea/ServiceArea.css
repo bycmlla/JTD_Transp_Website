@@ -1,0 +1,49 @@
+.service-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #f6f6f6;
+    border-radius: 16px;
+    padding: 40px 0px 40px 60px;
+    margin: 40px auto;
+}
+
+.service-info-text {
+    flex: 1;
+    margin-left: 5vw;
+}
+
+.service-info-text p {
+    color: #0F3F59;
+    font-size: 30px;
+}
+
+.service-info-text ul li {
+    color: #626262;
+    font-size: 20px;
+    list-style: none;
+}
+
+.service-map {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #013450;
+    padding: 20px;
+    border-radius: 16px 0 0 16px;
+}
+
+.service-map img {
+    width: 100%;
+    max-width: 500px;
+}
+.service-description{
+    font-size: 22px !important;
+    max-width: 30vw;
+    margin-top: 15px;
+}

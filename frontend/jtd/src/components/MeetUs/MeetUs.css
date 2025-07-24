@@ -1,0 +1,40 @@
+.meetus-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 0;
+    margin: 0;
+    width: 100%;
+    border-radius: 16px;
+    padding: 40px 0 40px 0;
+    margin: 40px auto;
+}
+
+.meetus-info-text {
+    flex: 1;
+    margin: 0 5vw 0 20vw;
+}
+
+.meetus-info-text p {
+    color: #0F3F59;
+    font-size: 30px;
+}
+
+.meetus-image {
+    margin-left: 5vw;
+    flex-shrink: 0; 
+}
+
+.meetus-image img {
+    width: auto;
+    max-width: 400px;
+    height: auto;
+    display: block;
+}
+
+.meetus-description{
+    font-size: 22px !important;
+    max-width: 30vw;
+    margin-top: 15px;
+}
