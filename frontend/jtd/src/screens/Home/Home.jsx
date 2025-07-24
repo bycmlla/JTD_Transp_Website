@@ -6,6 +6,7 @@ import StatCard from '../../components/StatCard/StatCard'
 import ServiceArea from '../../components/ServiceArea/ServiceArea'
 import MeetUs from '../../components/MeetUs/MeetUs'
 import QuickActions from '../../components/QuickActions/QuickActions'
+import BusinessPartner from '../../components/BusinessPartner/BusinessPartner'
 
 const Home = () => {
     return (
@@ -16,6 +17,7 @@ const Home = () => {
             <ServiceArea />
             <MeetUs/>
             <QuickActions/>
+            <BusinessPartner/>
         </div>
     )
 }

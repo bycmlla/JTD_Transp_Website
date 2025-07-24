@@ -11,11 +11,18 @@ const quickItems = [
   {id: 2, icon: QuotationIcon, info: "Cotação"},
   {id: 3, icon: SearchIcon, info: "Rastreamento"},
   {id: 4, icon: DateTimeIcon, info: "Previsão de entrega"},
+  {id: 4, icon: DateTimeIcon, info: "Previsão de entrega"},
+  {id: 1, icon: BasketIcon, info: "Agendar coleta"},
+  {id: 2, icon: QuotationIcon, info: "Cotação"},
+  {id: 3, icon: SearchIcon, info: "Rastreamento"},
+  {id: 4, icon: DateTimeIcon, info: "Previsão de entrega"},
+  {id: 4, icon: DateTimeIcon, info: "Previsão de entrega"},
 ]
 
 const QuickActions = () => {
   return (
     <div className='quick-actions-container'>
+      <div className='quick-background-linear'></div>
       <div className='open-section-container'>
         <div className='desc-actions-content'>
           <p className='desc-actions-text-blue'>
