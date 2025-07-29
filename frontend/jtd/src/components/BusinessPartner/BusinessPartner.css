@@ -1,0 +1,53 @@
+.business-partner {
+  background-color: #fff;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.business-partner__header {
+  margin-bottom: 2rem;
+}
+
+.business-partner__title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #01304A;
+}
+
+.business-partner__subtitle {
+  font-size: 1.5rem;
+  color: #666;
+}
+
+.business-partner__table-container {
+  overflow-x: auto;
+}
+
+.business-partner__table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 2rem;
+  margin: 0 auto;
+}
+.business-partner__cell {
+      width: 180px;
+  height: 180px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.business-partner__logo {
+  max-width: 100px;
+   max-height: 100%;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.business-partner__logo:hover {
+  filter: grayscale(0%);
+}
