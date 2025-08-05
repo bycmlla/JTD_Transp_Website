@@ -8,7 +8,7 @@ const Banner = () => {
       <img className='banner-img' src={BannerImage} alt='Imagem de um caminhão azul escrito jtd transportes ao pôr do sol' />
       <div className='banner-text-container'>
         <h1>A carga é sua. <br /> A responsabilidade é nossa.</h1>
-        <p>Na <strong>JTD</strong>, unimos <b>tecnologia</b> e agilidade para garantir entregas rápidas, <b>seguras e eficientes</b> por todo o Brasil.</p>
+        <p>Desde <b>2013</b> fornecendo serviços de transporte de carga, com <b>qualidade</b> e <b>pontualidade</b> para o mercado.</p>
         <button>Fazer orçamento</button>
       </div>
     </div>

@@ -7,15 +7,9 @@ const ServiceArea = () => {
         <div className='service-container'>
             <div className='service-info-text'>
                 <p><b>Onde</b> atuamos?</p>
-                <p className='service-description'>Estamos presentes em diversas regiões estratégicas do Brasil para oferecer mais agilidade e cobertura logística.</p>
+                <p className='service-description'>Nossa base está localizada em Feira de Santana - BA, um ponto estratégico no Nordeste, que nos permite oferecer maior agilidade e ampla cobertura logística para diversas regiões do Brasil.</p>
+                <p className='service-description'>BR-324, 5039 - Humildes, Feira de Santana - BA, 44097-012</p>
                 <br/>
-                <ul>
-                    <li>Feira de Santana - Bahia</li>
-                    <li>Fortaleza - Ceará</li>
-                    <li>Belo Horizonte - Minas Gerais</li>
-                    <li>João Pessoa - Paraíba</li>
-                    <li>Camaçari - Bahia</li>
-                </ul>
             </div>
             <div className='service-map'>
                 <img src={MapImage} alt="Mapa do brasil apontando com um simbolo de localização os estados indicados na descrição." />

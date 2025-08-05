@@ -10,7 +10,7 @@ const MeetUs = () => {
             </div>
             <div className='meetus-info-text'>
                 <p>Conheça nossa <b>história</b></p>
-                <p className='meetus-description'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p className='meetus-description'>De origem familiar a JTD TRANSPORTES foi fundada no ano de 2013 por Jonathas Carneiro com estrutura modesta e muita determinação, a empresa iniciou sua trajetória prestando serviço para multinacional MK Eletrodomésticos.</p>
             </div>
         </div>
     )

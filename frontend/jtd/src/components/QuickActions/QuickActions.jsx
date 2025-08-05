@@ -26,10 +26,10 @@ const QuickActions = () => {
       <div className='open-section-container'>
         <div className='desc-actions-content'>
           <p className='desc-actions-text-blue'>
-            Nossa empresa <b>pode</b>
+            <b>Conheça</b> os nossos
           </p>
           <p className='desc-actions-text-white'>
-            <b>ajudar você!</b>
+            <b>serviços!</b>
           </p>
         </div>
         <div className='img-caminhao-content'>

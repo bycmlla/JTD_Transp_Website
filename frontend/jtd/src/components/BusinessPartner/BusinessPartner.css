@@ -51,3 +51,7 @@
 .business-partner__logo:hover {
   filter: grayscale(0%);
 }
+
+.business-partner__logo--large {
+  max-width: 140px; 
+}
