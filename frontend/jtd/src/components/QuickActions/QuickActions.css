@@ -6,13 +6,13 @@
 }
 
 .quick-background-linear {
-  position: absolute;
-  top: 305px; 
-  left: 0;
-  width: 100%;
-  height: 350px; 
-  background: linear-gradient(to bottom, #01304A 0%, #0272B0 100%);
-  z-index: -1;
+    position: absolute;
+    top: 305px;
+    left: 0;
+    width: 100%;
+    height: 350px;
+    background: #013450;
+    z-index: -1;
 }
 
 .open-section-container {

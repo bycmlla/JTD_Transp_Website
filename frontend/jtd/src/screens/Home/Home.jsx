@@ -7,7 +7,6 @@ import ServiceArea from '../../components/ServiceArea/ServiceArea'
 import MeetUs from '../../components/MeetUs/MeetUs'
 import QuickActions from '../../components/QuickActions/QuickActions'
 import BusinessPartner from '../../components/BusinessPartner/BusinessPartner'
-import Location from '../../components/Location/Location'
 import Contact from '../../components/Contact/Contact'
 
 const Home = () => {
@@ -20,7 +19,6 @@ const Home = () => {
             <QuickActions />
             <BusinessPartner />
             <ServiceArea />
-            <Location />
             <Contact />
         </div>
     )
